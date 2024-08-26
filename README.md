@@ -3,7 +3,7 @@ pragma solidity >=0.8.0;
 0Fvrcrvwwveeber 
 
 interface Token {
-    function  _a) external view returns (uint);
+    function  _a external view returns (uint);
     function _to, uint _amt) external;
 }
 
